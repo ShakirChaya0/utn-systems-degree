@@ -1,0 +1,11 @@
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\bin\Debug\net8.0\Clases1.deps.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\bin\Debug\net8.0\Clases1.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\bin\Debug\net8.0\Clases1.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\obj\Debug\net8.0\Clases1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\obj\Debug\net8.0\Clases1.AssemblyInfoInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\obj\Debug\net8.0\Clases1.AssemblyInfo.cs
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\obj\Debug\net8.0\Clases1.csproj.CoreCompileInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\obj\Debug\net8.0\Clases1.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\obj\Debug\net8.0\refint\Clases1.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\obj\Debug\net8.0\Clases1.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo02\Aplicacion_Persona\Aplicacación1\Clases1\obj\Debug\net8.0\ref\Clases1.dll

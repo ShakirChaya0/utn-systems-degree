@@ -1,0 +1,14 @@
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\bin\Debug\net8.0\ListaEmpleados.exe
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\bin\Debug\net8.0\ListaEmpleados.deps.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\bin\Debug\net8.0\ListaEmpleados.runtimeconfig.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\bin\Debug\net8.0\ListaEmpleados.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\bin\Debug\net8.0\ListaEmpleados.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\ListaEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\ListaEmpleados.AssemblyInfoInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\ListaEmpleados.AssemblyInfo.cs
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\ListaEmpleados.csproj.CoreCompileInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\ListaEmpleados.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\refint\ListaEmpleados.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\ListaEmpleados.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\ListaEmpleados.genruntimeconfig.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ListaEmpleados\obj\Debug\net8.0\ref\ListaEmpleados.dll

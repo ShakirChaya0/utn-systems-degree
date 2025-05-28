@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\Clases_Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452E344A-08CD-47F0-8B8F-49CCFA20A812}|Clases\\Clases.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo02\\clases_herencia\\clases\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452E344A-08CD-47F0-8B8F-49CCFA20A812}|Clases\\Clases.csproj|solutionrelative:clases\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452E344A-08CD-47F0-8B8F-49CCFA20A812}|Clases\\Clases.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo02\\clases_herencia\\clases\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452E344A-08CD-47F0-8B8F-49CCFA20A812}|Clases\\Clases.csproj|solutionrelative:clases\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C995FE29-0EB0-403A-B073-F7FB83CF3A96}|LabClases1\\LabClases1.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo02\\clases_herencia\\labclases1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C995FE29-0EB0-403A-B073-F7FB83CF3A96}|LabClases1\\LabClases1.csproj|solutionrelative:labclases1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\Clases_Herencia\\Clases\\A.cs",
+              "RelativeDocumentMoniker": "Clases\\A.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\Clases_Herencia\\Clases\\A.cs",
+              "RelativeToolTip": "Clases\\A.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:04:31.228Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\Clases_Herencia\\Clases\\B.cs",
+              "RelativeDocumentMoniker": "Clases\\B.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\Clases_Herencia\\Clases\\B.cs",
+              "RelativeToolTip": "Clases\\B.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:48:14.621Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\Clases_Herencia\\LabClases1\\Program.cs",
+              "RelativeDocumentMoniker": "LabClases1\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\Clases_Herencia\\LabClases1\\Program.cs",
+              "RelativeToolTip": "LabClases1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:00:46.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

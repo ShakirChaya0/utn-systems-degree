@@ -1,0 +1,7 @@
+C:\Net\Unidad02\Capitulo01\Lab01\Decision\bin\Debug\Decision.exe.config
+C:\Net\Unidad02\Capitulo01\Lab01\Decision\bin\Debug\Decision.exe
+C:\Net\Unidad02\Capitulo01\Lab01\Decision\bin\Debug\Decision.pdb
+C:\Net\Unidad02\Capitulo01\Lab01\Decision\obj\Debug\Decision.csproj.AssemblyReference.cache
+C:\Net\Unidad02\Capitulo01\Lab01\Decision\obj\Debug\Decision.csproj.CoreCompileInputs.cache
+C:\Net\Unidad02\Capitulo01\Lab01\Decision\obj\Debug\Decision.exe
+C:\Net\Unidad02\Capitulo01\Lab01\Decision\obj\Debug\Decision.pdb

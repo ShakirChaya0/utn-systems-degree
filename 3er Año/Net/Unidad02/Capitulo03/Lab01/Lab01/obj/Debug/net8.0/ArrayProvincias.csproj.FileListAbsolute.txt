@@ -1,0 +1,14 @@
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\bin\Debug\net8.0\ArrayProvincias.exe
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\bin\Debug\net8.0\ArrayProvincias.deps.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\bin\Debug\net8.0\ArrayProvincias.runtimeconfig.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\bin\Debug\net8.0\ArrayProvincias.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\bin\Debug\net8.0\ArrayProvincias.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\ArrayProvincias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\ArrayProvincias.AssemblyInfoInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\ArrayProvincias.AssemblyInfo.cs
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\ArrayProvincias.csproj.CoreCompileInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\ArrayProvincias.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\refint\ArrayProvincias.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\ArrayProvincias.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\ArrayProvincias.genruntimeconfig.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\Lab01\obj\Debug\net8.0\ref\ArrayProvincias.dll

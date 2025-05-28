@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E386B433-CFC1-4BDD-B99C-4CCB9DDDB1E9}|..\\Web\\Web.csproj|c:\\net\\unidad01\\capitulo02\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF94A83-106C-4D63-8118-9385FA7DD2C6}|..\\Windows\\Windows.csproj|c:\\net\\unidad01\\capitulo02\\windows\\windows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6A9EEA-1B0E-45EC-BD19-715E91B05E76}|..\\Consola\\Consola.csproj|c:\\net\\unidad01\\capitulo02\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF94A83-106C-4D63-8118-9385FA7DD2C6}|..\\Windows\\Windows.csproj|c:\\net\\unidad01\\capitulo02\\windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF8DE-80F9-4B10-A681-BF27E52E5600}|..\\Shared\\Shared.csproj|c:\\net\\unidad01\\capitulo02\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ECFC25-57DF-4A11-B771-4C45EE274377}|Lab01.csproj|c:\\net\\unidad01\\capitulo02\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ECFC25-57DF-4A11-B771-4C45EE274377}|Lab01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "..\\Web\\Web.csproj",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Web\\Web.csproj",
+              "RelativeToolTip": "..\\Web\\Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T19:45:57.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Windows",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Windows\\Windows.csproj",
+              "RelativeDocumentMoniker": "..\\Windows\\Windows.csproj",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Windows\\Windows.csproj",
+              "RelativeToolTip": "..\\Windows\\Windows.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T19:45:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Consola\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Consola\\Program.cs",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Consola\\Program.cs",
+              "RelativeToolTip": "..\\Consola\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:36:37.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Windows\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Windows\\Program.cs",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Windows\\Program.cs",
+              "RelativeToolTip": "..\\Windows\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:34:48.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\Class1.cs",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Shared\\Class1.cs",
+              "RelativeToolTip": "..\\Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:31:41.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:29:44.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

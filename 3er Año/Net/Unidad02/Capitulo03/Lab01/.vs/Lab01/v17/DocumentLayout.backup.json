@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0278B61D-073E-4F2F-8425-5AEF59E1DE0C}|ListaEmpleados\\ListaEmpleados.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo03\\lab01\\listaempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0278B61D-073E-4F2F-8425-5AEF59E1DE0C}|ListaEmpleados\\ListaEmpleados.csproj|solutionrelative:listaempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3E78-2C1C-4EB3-941C-A196D337E431}|ArrayList\\ArrayList.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo03\\lab01\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3E78-2C1C-4EB3-941C-A196D337E431}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE8ED82-0A76-48DF-88D8-8B47079604E5}|Lab01\\Lab01.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo03\\lab01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE8ED82-0A76-48DF-88D8-8B47079604E5}|Lab01\\Lab01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E41817-8A83-4EE6-A0B4-544E61313F06}|ListaNumeros\\ListaNumeros.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo03\\lab01\\listanumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E41817-8A83-4EE6-A0B4-544E61313F06}|ListaNumeros\\ListaNumeros.csproj|solutionrelative:listanumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\ListaEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "ListaEmpleados\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\ListaEmpleados\\Program.cs",
+              "RelativeToolTip": "ListaEmpleados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:25:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\ArrayList\\Program.cs",
+              "RelativeToolTip": "ArrayList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:02:42.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\ListaNumeros\\Program.cs",
+              "RelativeDocumentMoniker": "ListaNumeros\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\ListaNumeros\\Program.cs",
+              "RelativeToolTip": "ListaNumeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:45:44.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\Lab01\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo03\\Lab01\\Lab01\\Program.cs",
+              "RelativeToolTip": "Lab01\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:21:18.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

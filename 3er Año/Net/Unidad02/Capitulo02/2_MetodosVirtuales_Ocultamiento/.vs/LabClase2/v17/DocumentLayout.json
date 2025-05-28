@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\MetodosVirtuales_Ocultamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4982A24-17D5-4B16-9ED2-B7F7377F30DF}|Clases\\Clases.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo02\\metodosvirtuales_ocultamiento\\clases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4982A24-17D5-4B16-9ED2-B7F7377F30DF}|Clases\\Clases.csproj|solutionrelative:clases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05359F21-B8F0-41A3-B691-6F3FBB3D794F}|LabClase2\\LabClase2.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\unidad02\\capitulo02\\metodosvirtuales_ocultamiento\\labclase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05359F21-B8F0-41A3-B691-6F3FBB3D794F}|LabClase2\\LabClase2.csproj|solutionrelative:labclase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\MetodosVirtuales_Ocultamiento\\Clases\\Class1.cs",
+              "RelativeDocumentMoniker": "Clases\\Class1.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\MetodosVirtuales_Ocultamiento\\Clases\\Class1.cs",
+              "RelativeToolTip": "Clases\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:57:14.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\MetodosVirtuales_Ocultamiento\\LabClase2\\Program.cs",
+              "RelativeDocumentMoniker": "LabClase2\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\Unidad02\\Capitulo02\\MetodosVirtuales_Ocultamiento\\LabClase2\\Program.cs",
+              "RelativeToolTip": "LabClase2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:51:53.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

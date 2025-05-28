@@ -1,0 +1,14 @@
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\bin\Debug\net8.0\ArrayList.exe
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\bin\Debug\net8.0\ArrayList.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\ArrayList.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\Lab01\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

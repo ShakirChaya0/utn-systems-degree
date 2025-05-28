@@ -1,0 +1,7 @@
+C:\Net\Unidad01\Capitulo01\IndiceDeArrays\IndiceDeArrays\obj\Debug\IndiceDeArrays.csproj.AssemblyReference.cache
+C:\Net\Unidad01\Capitulo01\IndiceDeArrays\IndiceDeArrays\obj\Debug\IndiceDeArrays.csproj.CoreCompileInputs.cache
+C:\Net\Unidad01\Capitulo01\IndiceDeArrays\IndiceDeArrays\bin\Debug\IndiceDeArrays.exe.config
+C:\Net\Unidad01\Capitulo01\IndiceDeArrays\IndiceDeArrays\bin\Debug\IndiceDeArrays.exe
+C:\Net\Unidad01\Capitulo01\IndiceDeArrays\IndiceDeArrays\bin\Debug\IndiceDeArrays.pdb
+C:\Net\Unidad01\Capitulo01\IndiceDeArrays\IndiceDeArrays\obj\Debug\IndiceDeArrays.exe
+C:\Net\Unidad01\Capitulo01\IndiceDeArrays\IndiceDeArrays\obj\Debug\IndiceDeArrays.pdb
