@@ -1,0 +1,12 @@
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\bin\Debug\net8.0\ChayaShakir.Dominio.deps.json
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\bin\Debug\net8.0\ChayaShakir.Dominio.dll
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\bin\Debug\net8.0\ChayaShakir.Dominio.pdb
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\ChayaShakir.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\ChayaShakir.Dominio.AssemblyInfoInputs.cache
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\ChayaShakir.Dominio.AssemblyInfo.cs
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\ChayaShakir.Dominio.csproj.CoreCompileInputs.cache
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\ChayaShakir.Dominio.sourcelink.json
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\ChayaShakir.Dominio.dll
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\refint\ChayaShakir.Dominio.dll
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\ChayaShakir.Dominio.pdb
+D:\Shakir\utn-systems-degree\3er Año\Net\ChayaShakir_Tema_A2_Moto\ChayaShakir.Consola\ChayaShakir.Dominio\obj\Debug\net8.0\ref\ChayaShakir.Dominio.dll

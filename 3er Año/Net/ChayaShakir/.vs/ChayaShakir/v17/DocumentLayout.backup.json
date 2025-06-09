@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{438A36CE-0525-4929-ADD5-0159C1535901}|ChayaShakir.Consola\\ChayaShakir.Consola.csproj|d:\\shakir\\utn-systems-degree\\3er a\u00F1o\\net\\chayashakir\\chayashakir.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A36CE-0525-4929-ADD5-0159C1535901}|ChayaShakir.Consola\\ChayaShakir.Consola.csproj|solutionrelative:chayashakir.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52572B80-49F9-4386-9F7E-73512365EB68}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|d:\\shakir\\utn-systems-degree\\3er a\u00F1o\\net\\chayashakir\\chayashakir.dominio\\guitarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52572B80-49F9-4386-9F7E-73512365EB68}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|solutionrelative:chayashakir.dominio\\guitarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52572B80-49F9-4386-9F7E-73512365EB68}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|d:\\shakir\\utn-systems-degree\\3er a\u00F1o\\net\\chayashakir\\chayashakir.dominio\\listainstrumento .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52572B80-49F9-4386-9F7E-73512365EB68}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|solutionrelative:chayashakir.dominio\\listainstrumento .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52572B80-49F9-4386-9F7E-73512365EB68}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|d:\\shakir\\utn-systems-degree\\3er a\u00F1o\\net\\chayashakir\\chayashakir.dominio\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52572B80-49F9-4386-9F7E-73512365EB68}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|solutionrelative:chayashakir.dominio\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guitarra.cs",
+              "DocumentMoniker": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\ChayaShakir.Dominio\\Guitarra.cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Dominio\\Guitarra.cs",
+              "ToolTip": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\ChayaShakir.Dominio\\Guitarra.cs",
+              "RelativeToolTip": "ChayaShakir.Dominio\\Guitarra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:49:57.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaInstrumento .cs",
+              "DocumentMoniker": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\ChayaShakir.Dominio\\ListaInstrumento .cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Dominio\\ListaInstrumento .cs",
+              "ToolTip": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\ChayaShakir.Dominio\\ListaInstrumento .cs",
+              "RelativeToolTip": "ChayaShakir.Dominio\\ListaInstrumento .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:49:28.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\ChayaShakir.Consola\\Program.cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Consola\\Program.cs",
+              "ToolTip": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\ChayaShakir.Consola\\Program.cs",
+              "RelativeToolTip": "ChayaShakir.Consola\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:49:00.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instrumento.cs",
+              "DocumentMoniker": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\ChayaShakir.Dominio\\Instrumento.cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Dominio\\Instrumento.cs",
+              "ToolTip": "D:\\Shakir\\utn-systems-degree\\3er A\u00F1o\\Net\\ChayaShakir\\ChayaShakir.Dominio\\Instrumento.cs",
+              "RelativeToolTip": "ChayaShakir.Dominio\\Instrumento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:46:50.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
