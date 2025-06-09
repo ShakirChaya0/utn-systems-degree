@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{097CF6A4-3964-4660-B7B3-D0595E748859}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\chayashakir_tema_a2_moto\\chayashakir.consola\\chayashakir.dominio\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097CF6A4-3964-4660-B7B3-D0595E748859}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|solutionrelative:chayashakir.dominio\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097CF6A4-3964-4660-B7B3-D0595E748859}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\chayashakir_tema_a2_moto\\chayashakir.consola\\chayashakir.dominio\\listavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097CF6A4-3964-4660-B7B3-D0595E748859}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|solutionrelative:chayashakir.dominio\\listavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097CF6A4-3964-4660-B7B3-D0595E748859}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\chayashakir_tema_a2_moto\\chayashakir.consola\\chayashakir.dominio\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097CF6A4-3964-4660-B7B3-D0595E748859}|ChayaShakir.Dominio\\ChayaShakir.Dominio.csproj|solutionrelative:chayashakir.dominio\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CA3B70-FC85-44E9-9288-D09008CE217C}|ChayaShakir.Consola\\ChayaShakir.Consola.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\chayashakir_tema_a2_moto\\chayashakir.consola\\chayashakir.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CA3B70-FC85-44E9-9288-D09008CE217C}|ChayaShakir.Consola\\ChayaShakir.Consola.csproj|solutionrelative:chayashakir.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaVehiculo.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Dominio\\ListaVehiculo.cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Dominio\\ListaVehiculo.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Dominio\\ListaVehiculo.cs",
+              "RelativeToolTip": "ChayaShakir.Dominio\\ListaVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:15:58.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Dominio\\Moto.cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Dominio\\Moto.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Dominio\\Moto.cs",
+              "RelativeToolTip": "ChayaShakir.Dominio\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:15:45.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Dominio\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Dominio\\Vehiculo.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Dominio\\Vehiculo.cs*",
+              "RelativeToolTip": "ChayaShakir.Dominio\\Vehiculo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:13:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Consola\\Program.cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Consola\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Consola\\Program.cs",
+              "RelativeToolTip": "ChayaShakir.Consola\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:12:28.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

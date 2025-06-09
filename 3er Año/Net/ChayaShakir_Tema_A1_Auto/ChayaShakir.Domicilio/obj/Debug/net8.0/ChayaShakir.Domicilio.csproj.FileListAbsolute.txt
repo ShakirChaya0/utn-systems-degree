@@ -1,0 +1,12 @@
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\bin\Debug\net8.0\ChayaShakir.Domicilio.deps.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\bin\Debug\net8.0\ChayaShakir.Domicilio.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\bin\Debug\net8.0\ChayaShakir.Domicilio.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\ChayaShakir.Domicilio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\ChayaShakir.Domicilio.AssemblyInfoInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\ChayaShakir.Domicilio.AssemblyInfo.cs
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\ChayaShakir.Domicilio.csproj.CoreCompileInputs.cache
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\ChayaShakir.Domicilio.sourcelink.json
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\ChayaShakir.Domicilio.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\refint\ChayaShakir.Domicilio.dll
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\ChayaShakir.Domicilio.pdb
+C:\Documentos\Universidad\3er Año\Net\Unidad02\Capitulo03\ChayaShakir.NET\ChayaShakir.Domicilio\obj\Debug\net8.0\ref\ChayaShakir.Domicilio.dll
