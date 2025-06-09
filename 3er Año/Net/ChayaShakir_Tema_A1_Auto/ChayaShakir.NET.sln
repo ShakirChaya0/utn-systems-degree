@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayaShakir.Domicilio", "ChayaShakir.Domicilio\ChayaShakir.Domicilio.csproj", "{9F9E31BF-C0BF-4C6C-A921-508D98994769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayaShakir.Consola", "ChayaShakir.Consola\ChayaShakir.Consola.csproj", "{D1201542-CCDC-4A20-8EDC-29290E67572C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9E31BF-C0BF-4C6C-A921-508D98994769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9E31BF-C0BF-4C6C-A921-508D98994769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9E31BF-C0BF-4C6C-A921-508D98994769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9E31BF-C0BF-4C6C-A921-508D98994769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1201542-CCDC-4A20-8EDC-29290E67572C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1201542-CCDC-4A20-8EDC-29290E67572C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1201542-CCDC-4A20-8EDC-29290E67572C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1201542-CCDC-4A20-8EDC-29290E67572C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D9E525-473A-4F12-9605-D00253604CD9}
+	EndGlobalSection
+EndGlobal
