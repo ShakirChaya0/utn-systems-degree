@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE515838-E89A-4425-BDE6-FB2A862023BF}|ChayaShakir.Consola\\ChayaShakir.Consola.csproj|c:\\documentos\\universidad\\3er a\u00F1o\\net\\chayashakir_tema_a2_moto\\chayashakir.consola\\chayashakir.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE515838-E89A-4425-BDE6-FB2A862023BF}|ChayaShakir.Consola\\ChayaShakir.Consola.csproj|solutionrelative:chayashakir.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Consola\\Program.cs",
+              "RelativeDocumentMoniker": "ChayaShakir.Consola\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Universidad\\3er A\u00F1o\\Net\\ChayaShakir_Tema_A2_Moto\\ChayaShakir.Consola\\ChayaShakir.Consola\\Program.cs",
+              "RelativeToolTip": "ChayaShakir.Consola\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:08:04.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
